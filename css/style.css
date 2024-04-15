@@ -55,7 +55,7 @@ a, a:hover, a:active {
     background: #eee;
 }
 .g-progress {
-    width: 1%;
+    width: 25%;
     height: inherit;
     border-radius: 25px 0 0 25px;
     background: linear-gradient(90deg, #00a3ee, #00c3ff);
